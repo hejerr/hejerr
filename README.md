@@ -16,11 +16,11 @@
 
 ## 👩‍💻 About Me
 
-> Turning messy data into smart decisions — and teaching machines to double-check their own work. 😉
+> Turning messy data into smart decisions — and shaping the AI that shapes tomorrow.. 😉
 
 I'm Hajer — a Master's student in **AI, Data & Agentic Systems** at **Université Paris-Dauphine (PSL)**, obsessed with building things that reason a little more like humans do. I started out in Business Intelligence, but somewhere between dashboards and datasets I fell down the AI rabbit hole… and never really climbed back out. 🐇
 
-Right now I'm deep in **Generative AI, NLP and AI Agents** — building systems that don't just spit out an answer, they check their own work first (yes, I built a RAG agent that catches and fixes its *own* mistakes 🤖). I'm drawn to projects with real stakes: predicting cancer biomarkers for doctors, resizing images pixel-by-pixel, or accidentally landing in the top 2% of a Kaggle competition.
+Right now I'm deep in Generative AI, NLP and AI Agents, and I learn best by building — turning ideas into prototypes, breaking them, and figuring out why. Very much a work in progress, and genuinely excited for everything I haven't built yet.
 
 Curious by default. Stubborn when a bug won't die. Always chasing the next *"wait, that actually worked?!"* moment. 🚀
 
