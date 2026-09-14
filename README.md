@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:FF9A9E&height=200&section=header&text=Hi,%20I'm%20Hajer%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Master's%20Student%20%7C%20Building%20Agentic%20%26%20ML%20Solutions&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:FF9A9E&height=200&section=header&text=Hi%2C%20I%27m%20Hajer%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20%E2%80%A2%20Agentic%20AI%20Enthusiast%20%E2%80%A2%20Data%20Scientist%20in%20the%20Making&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/hajer-ben-amri-022109315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hejer.ben-amri@dauphine.eu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/hejerr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Master's+Student+in+AI%2C+Data+%26+Agentic+Systems;Building+RAG+%26+Agentic+AI+Pipelines;Turning+Data+Into+Decisions;Curious.+Proactive.+Always+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=AI%20Builder%20in%20the%20Making%20%F0%9F%A4%96;Turning%20Data%20Into%20Decisions%20%F0%9F%93%8A;Teaching%20Machines%20to%20Double-Check%20Themselves%20%F0%9F%94%81;Curious.%20Proactive.%20Always%20Leveling%20Up.%20%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hejerr&color=f72585&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -16,26 +16,29 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Master's student in Artificial Intelligence, Data & Agentic Systems** at **Université Paris-Dauphine (PSL)**, with a Bachelor's degree in Business Computing (Business Intelligence) from ISG. 
+> Turning messy data into smart decisions — and teaching machines to double-check their own work. 😉
 
-I have a solid foundation in **Data Science, Machine Learning, data analysis and Python**, and I'm especially drawn to designing intelligent systems and turning raw data into real value. Right now I'm deepening my skills in **Generative AI, NLP and AI Agents**, and I like putting what I learn into practice through concrete, hands-on projects. Curious, proactive, and driven by learning — always looking for the next problem worth solving. 🚀
+I'm Hajer — a Master's student in **AI, Data & Agentic Systems** at **Université Paris-Dauphine (PSL)**, obsessed with building things that reason a little more like humans do. I started out in Business Intelligence, but somewhere between dashboards and datasets I fell down the AI rabbit hole… and never really climbed back out. 🐇
+
+Right now I'm deep in **Generative AI, NLP and AI Agents** — building systems that don't just spit out an answer, they check their own work first (yes, I built a RAG agent that catches and fixes its *own* mistakes 🤖). I'm drawn to projects with real stakes: predicting cancer biomarkers for doctors, resizing images pixel-by-pixel, or accidentally landing in the top 2% of a Kaggle competition.
+
+Curious by default. Stubborn when a bug won't die. Always chasing the next *"wait, that actually worked?!"* moment. 🚀
 
 ```python
-class HajerBenAmri:
+class Hajer:
     def __init__(self):
         self.role = "AI & Data Master's Student"
-        self.university = "Université Paris-Dauphine (PSL)"
-        self.location = "Paris, France 🇫🇷 | Tunis, Tunisia 🇹🇳"
-        self.background = "B.Sc. Business Intelligence @ ISG"
-        self.focus_areas = ["Generative AI", "NLP", "AI Agents", "Machine Learning", "RAG"]
-        self.currently_exploring = ["Agentic AI", "LLM fine-tuning", "MLOps"]
-        self.soft_skills = ["Communication", "Teamwork", "Creativity", "Autonomy"]
+        self.superpower = "Making messy data behave"
+        self.currently_building = "AI agents that fact-check themselves"
+        self.obsessions = ["Generative AI", "NLP", "AI Agents", "RAG"]
+        self.next_level_unlock = ["Agentic AI", "LLM fine-tuning", "MLOps"]
+        self.status = "curious, caffeinated, and mid-debug ☕"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something intelligent together 🤝")
 
 
-hajer = HajerBenAmri()
+hajer = Hajer()
 hajer.say_hi()
 ```
 
