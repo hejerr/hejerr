@@ -232,6 +232,16 @@ hajer.say_hi()
 
 <br>
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hejerr/hejerr/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" width="100%"/>
+
+</div>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
