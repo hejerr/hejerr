@@ -123,6 +123,25 @@ hajer.say_hi()
 
 <table>
 <tr>
+    
+<td width="50%" valign="top">
+
+###🛠️ [Engineering-intelligence-hub](https://github.com/hejerr/Engineering-intelligence-hub)
+
+> Multi-source developer RAG assistant that routes questions before it answers them
+
+-Classifies each question (code / docs / architecture / incidents) and routes it to only the relevant source
+-Self-grades its own confidence and widens the search when unsure — backed by an ablation study measuring whether the retry loop actually helps
+-Runs on real data
+-Streamlit demo with a live "how I got this answer" panel showing the routing + retry decisions, plus citations linking straight to the real source on GitHub
+
+`Python` `LangGraph` `Gemini` `TF-IDF` `RAG` `Streamlit`
+
+
+         
+</td>   
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Self-Correcting Agentic RAG](https://github.com/hejerr/agentic-rag)
