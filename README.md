@@ -136,7 +136,20 @@ hajer.say_hi()
 - Streamlit demo with a live "how I got this answer" panel showing the routing + retry decisions ...
 `Python` `LangGraph` `Gemini` `TF-IDF` `RAG` `Streamlit`
 
+<td width="50%" valign="top">
+    
+### [NLP_roadmap](https://github.com/hejerr/NLP_roadmap)
 
+> A hands-on path through core NLP concepts, one notebook at a time.
+
+- Classical NLP and sentiment classification on COVID-19 tweets
+- Text representations: bag of words, TF-IDF, PMI, LSA
+- Word embeddings: Word2Vec and GloVe
+- Sequence models: RNNs, LSTMs, encoder-decoder, attention
+
+`Python` `scikit-learn` `Gensim` `spaCy` `PyTorch`
+ 
+</td>
          
 </td>   
 </tr>
